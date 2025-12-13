@@ -11,8 +11,6 @@ We will build a full Emergency Room Data Project in Excel with an interactive da
 ✅ Department Referrals
 ✅ Percentage of Patients Seen Within 30 Minutes
 
-Here is a **complete, polished, insights + business problem statement** that you can directly use in your **GitHub project description, README, or case study**:
-
 ---
 
 ## **📊 Project Insights — Hospital Emergency Room Dashboard**
